@@ -3,7 +3,7 @@ use anchor_spl::{
     token::{self, Token, Transfer},
 };
 
-declare_id!("F7T2naGX3R3izoV96t84788Wru2foc8csf7AvcTwuCH4"); // Replace with your program's public key
+declare_id!("F7T2naGX3R3izoV96t84788Wru2foc8csf7AvcTwuCH4");
 
 #[program]
 pub mod token_swap {
